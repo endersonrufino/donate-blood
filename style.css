@@ -1,0 +1,8 @@
+header, main, footer {
+    text-align: center;
+}
+
+.donors{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
